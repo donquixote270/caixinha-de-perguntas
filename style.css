@@ -41,3 +41,9 @@ footer {
     margin: 0.6rem;border-radius: 0.6rem;
     font-size: 1vw;
 }
+
+:root {
+    --text-color: #DBE4EF;
+    --card-front-color: #144480;
+    --card-back-color: #00F4BF;
+}
